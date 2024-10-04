@@ -5,7 +5,12 @@ Automatic Dark Flat for AsiAir. Built in Arduino and no drivers are necesary.
 * Arduino (Uno, nano, mega)
 * StepDown or MB102
 * Servo (RDS3115mg)
+* Panel de Flats electroluminiscente de 200mm (Aliexpress)
 * AsiAir
+
+# Piezas para imprimir
+Aquí podeis encontrar las piezas que he usado para la tapa.
+https://www.thingiverse.com/thing:6787381
 
 # Conexiones y funcionamiento.
 El funcionamiento es sencillo, lo primero es conectar el servo a 5V y a GND en la placa del Arduino.
