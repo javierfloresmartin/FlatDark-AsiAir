@@ -20,5 +20,5 @@ Luego necesitamos hacer una conexión desde los 12 voltios que sacamos del AsiAi
 Por último conectamos otra salida del AsiAir a la fuente de alimentación del panel electroluminiscente de 12V y configuramos dicha salida como Flat Panel para poder tener un control sobre el voltaje que pasará al panel. Esto puede hacer que el panel parpade debido a la frecuencia modulada (PWM) del AsiAir. Quizá con un filtro paso bajo (resistencia + condensador) se pueda arreglar pero de momento no está implementado. 
 
 # Video demostrativo.
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=sVqIuz2ImRY)
+[![Alt text](https://img.youtube.com/vi/sVqIuz2ImRY/0.jpg)](https://www.youtube.com/watch?v=sVqIuz2ImRY)
 
